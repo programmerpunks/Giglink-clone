@@ -1,5 +1,6 @@
 import { TiTickOutline } from "react-icons/ti";
 
+
 const CarouselCard = ({ url, url2, collection, name, items }) => {
   return (
     <div className="group relative overflow-hidden bg-slate-900 rounded-lg p-3 shadow shadow-gray-800 ease-in-out duration-500 m-2 w-[330px]">
